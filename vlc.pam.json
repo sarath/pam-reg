@@ -1,0 +1,13 @@
+{
+     "name": "vlc",
+     "version": "latest",
+     "description": "VLC portable",
+     "source": {
+         "url": "http://download.videolan.org/pub/videolan/vlc/last/win64/vlc-2.1.5-win64.7z",
+         "type": "7z"
+     },
+     "path": [
+        
+     ],
+     "env": {}
+ }

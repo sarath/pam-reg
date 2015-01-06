@@ -1,0 +1,13 @@
+{
+     "name": "gitp",
+     "version": "1.9.4",
+     "description": "Git commands",
+     "source": {
+         "url": "https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z",
+         "type": "7z"
+     },
+     "path": [
+        "bin", "cmd", "share/vim/vim73"
+     ],
+     "env": {}
+ }

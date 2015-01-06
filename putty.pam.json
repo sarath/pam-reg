@@ -1,0 +1,13 @@
+{
+     "name": "putty",
+     "version": "latest",
+     "description": "putty command line",
+     "source": {
+         "url": "http://the.earth.li/~sgtatham/putty/latest/x86/putty.zip",
+         "type": "zip"
+     },
+     "path": [
+        
+     ],
+     "env": {}
+ }
